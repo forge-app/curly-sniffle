@@ -1,0 +1,14 @@
+name: curly-sniffle
+id: 'ari:cloud:compass:510b73bb-f0a2-40b6-9a32-fea683c4190b:component/d4726e0b-17cb-41c5-acd8-1d1bcced0da1/07236533-ebc6-4fe5-8d13-5c44da027079'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/forge-app/curly-sniffle'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
